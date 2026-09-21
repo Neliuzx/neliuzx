@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=79C0FF&center=true&vCenter=true&width=650&lines=Salut%2C+moi+c'est+Neliuzx!;Creative+Developer;JavaScript+%C2%B7+React+%C2%B7+Three.js)](https://github.com/neliuzx)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=79C0FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Neliuzx!;Creative+Developer;JavaScript+%C2%B7+React+%C2%B7+Three.js)](https://github.com/neliuzx)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=neliuzx&color=79C0FF&style=flat-square&label=Profile+Views)](https://github.com/neliuzx)
 [![Followers](https://img.shields.io/github/followers/neliuzx?style=flat-square&logo=github&logoColor=white&color=238636)](https://github.com/neliuzx?tab=followers)
